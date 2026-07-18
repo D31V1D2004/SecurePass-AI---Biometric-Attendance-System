@@ -272,7 +272,6 @@ python main.py
 
 **Pop David** — Computer Science, West University of Timișoara
 
-- GitHub: [@popda](https://github.com/popda)
 
 ---
 
